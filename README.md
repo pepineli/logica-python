@@ -1,7 +1,6 @@
 # Lógica de Programação com Python
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-(https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge)
 
 > Repositório criado para o desafio da DIO, documentando meus estudos de lógica de programação com Python.
 
